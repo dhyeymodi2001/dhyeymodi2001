@@ -2,10 +2,40 @@
 <h3 align="center">A passionate coder and tech enthusiast from India, on a mission to make waves in the digital world.</h3>
 <br/>
 <h2 align="left">👩‍💻 About Me</h2>
-<p align="left">🚀 Currently Working On:<br>      Building scalable web applications with React.js and Node.js<br>      Building a clone app of a famou<br>      Contributing to open-source projects like [Project Name]<br>💡 Looking to Collaborate On:<br>      Exciting projects that challenge the status quo and push the boundaries of technology<br>      Collaborative efforts to develop impactful solutions for real-world problems<br>      Hackathons and coding competitions where innovation thrives<br>📚 Currently Learning:<br>      Advanced data structures and algorithms for competitive programming<br>      DevOps practices for seamless deployment and integration<br>      Exploring blockchain technology and its applications<br>💬 Ask Me About:<br>      My journey into programming and how I fell in love with coding<br>      Tips for mastering React.js or Node.js<br>      The latest tech trends and industry insights<br>🎉 Fun Fact:<br>      Did you know I once built a robot that could solve a Rubik's Cube in under a minute? Yeah, I like to blend my love for coding with a bit of robotics fun!</p>
+<p align="left">🔎 Read more about my projects at <a href="https://dhyeymodi.netlify.app">dhyeymodi.netlify.app</a> <br/><br/>
+  🚀 Currently Working On:      
+  <ul><li>Building scalable web applications with React.js and Node.js.</li>
+    <li>Developing a clone of the famous dating site Tinder, exploring modern UI/UX and real-time matching algorithms.</li>
+  <li>Enhancing my problem-solving skills through algorithmic challenges on LeetCode.</li></ul>
+  💡 Looking to Collaborate On:
+  <ul><li>Innovative projects that merge technology with social impact, particularly in areas like education, healthcare, or sustainability.</li>
+    <li>Collaborative efforts to develop impactful solutions for real-world problems.</li>
+  <li>Hackathons and coding competitions as a platform for innovative collaboration.</li></ul>
+📚 Currently Learning:
+<ul><li>Exploring modern frontend frameworks like Vue.js and Angular.</li>
+    <li>Advanced data structures and algorithms for competitive programming.</li>
+  <li>Delving into user experience (UX) design principles and methodologies to create more intuitive and user-friendly interfaces for my applications.</li></ul>
+💬 Ask Me About:
+<ul><li>My journey into programming and how I fell in love with coding</li>
+    <li>Insights into my journey as a self-taught developer and strategies for continuous learning and skill improvement.</li></ul></p>
 
 ###
+<h2 align="left">🌐 Socials:</h2>
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/dhyey-modi-28769b218" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:dhyeymodi21@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/dhyey_modi/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="wa.link/fx2jde" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
+</div>
 
 #####
 <h2 align="left">🛠 Language and tools</h2>
@@ -60,6 +90,9 @@
 </div>
 
 ###
+
+
+
 
 ###
 
