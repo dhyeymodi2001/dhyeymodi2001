@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Dhyey Modi</h1>
-<h3 align="center">A passionate coder and tech enthusiast from India, on a mission to make waves in the digital world.</h3>
+<h3 align="center">A Data Analyst and Software Engineer passionate about turning data into impactful insights and building scalable solutions.</h3>
 <br/>
 <h2 align="left">👩‍💻 About Me</h2>
-<p align="left">🔎 Read more about my projects at <a href="https://dhyeymodi.netlify.app">dhyeymodi.netlify.app</a> <br/><br/>
+<p align="left">Explore my work:<a href="https://dhyeymodi.netlify.app">dhyeymodi.netlify.app</a> <br/><br/>
   🚀 Currently Working On:      
-  <ul><li>Building scalable web applications with React.js and Node.js.</li>
-    <li>Developing a clone of the famous dating site Tinder, exploring modern UI/UX and real-time matching algorithms.</li>
-  <li>Enhancing my problem-solving skills through algorithmic challenges on LeetCode.</li></ul>
+  <ul><li>Analyzing large datasets to extract business insights using Python, SQL, and Power BI.</li>
+    <li>Building data-driven applications that merge analytics with intuitive web and mobile interfaces.</li>
+  <li>Developing an interactive dashboard to visualize business trends and decision-making metrics.</li></ul>
   💡 Looking to Collaborate On:
-  <ul><li>Innovative projects that merge technology with social impact, particularly in areas like education, healthcare, or sustainability.</li>
-    <li>Collaborative efforts to develop impactful solutions for real-world problems.</li>
-  <li>Hackathons and coding competitions as a platform for innovative collaboration.</li></ul>
+  <ul><li>Data-driven projects that leverage machine learning, predictive analytics, or business intelligence.</li>
+    <li>Innovative solutions that bridge data analytics with web/app development.</li>
+  <li>Open-source contributions related to data visualization, automation, or process optimization.</li></ul>
 📚 Currently Learning:
-<ul><li>Exploring modern frontend frameworks like Vue.js and Angular.</li>
-    <li>Advanced data structures and algorithms for competitive programming.</li>
-  <li>Delving into user experience (UX) design principles and methodologies to create more intuitive and user-friendly interfaces for my applications.</li></ul>
+<ul><li>Advanced SQL for data querying, transformation, and optimization.</li>
+    <li>Power BI & Tableau for interactive data storytelling.</li>
+  <li>Machine Learning & Data Science applications using Python (Pandas, NumPy, Scikit-Learn).</li></ul>
 💬 Ask Me About:
 <ul><li>My journey into programming and how I fell in love with coding</li>
     <li>Insights into my journey as a self-taught developer and strategies for continuous learning and skill improvement.</li></ul></p>
@@ -42,6 +42,7 @@
 
 
 <div align="left">
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
@@ -87,7 +88,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
+  <img width="12" />
 </div>
+
 
 ###
 
